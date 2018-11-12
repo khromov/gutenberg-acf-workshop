@@ -1,0 +1,12 @@
+blockquote.quote-block .quote-sign {
+    font-size: 80px;
+}
+
+blockquote.quote-block {
+    font-size: 30px;
+}
+
+blockquote.quote-block cite {
+    display: block;
+    font-size: 15px;
+}

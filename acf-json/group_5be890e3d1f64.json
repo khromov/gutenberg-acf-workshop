@@ -1,0 +1,62 @@
+{
+    "key": "group_5be890e3d1f64",
+    "title": "Quote block",
+    "fields": [
+        {
+            "key": "field_5be8914310ddb",
+            "label": "Quote",
+            "name": "quote",
+            "type": "textarea",
+            "instructions": "Enter your quote",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "default_value": "",
+            "placeholder": "",
+            "maxlength": "",
+            "rows": "",
+            "new_lines": ""
+        },
+        {
+            "key": "field_5be8914e10ddc",
+            "label": "Author",
+            "name": "author",
+            "type": "text",
+            "instructions": "Author of quote",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "default_value": "",
+            "placeholder": "",
+            "prepend": "",
+            "append": "",
+            "maxlength": ""
+        }
+    ],
+    "location": [
+        [
+            {
+                "param": "block",
+                "operator": "==",
+                "value": "acf\/khromov-quote"
+            }
+        ]
+    ],
+    "menu_order": 0,
+    "position": "normal",
+    "style": "default",
+    "label_placement": "top",
+    "instruction_placement": "label",
+    "hide_on_screen": "",
+    "active": 1,
+    "description": "",
+    "modified": 1541969832
+}
